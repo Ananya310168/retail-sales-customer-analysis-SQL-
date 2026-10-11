@@ -1,0 +1,52 @@
+Product_ID,Product_Name,Category,Unit_Price
+PROD0001,Laptop,Electronics,65000
+PROD0002,Smartphone,Electronics,28000
+PROD0003,Tablet,Electronics,22000
+PROD0004,Monitor,Electronics,18000
+PROD0005,Keyboard,Accessories,1800
+PROD0006,Mouse,Accessories,900
+PROD0007,Headphones,Accessories,2500
+PROD0008,Smartwatch,Electronics,5500
+PROD0009,Power Bank,Accessories,1600
+PROD0010,USB Cable,Accessories,450
+PROD0011,Bluetooth Speaker,Electronics,3200
+PROD0012,Printer,Electronics,12500
+PROD0013,External SSD,Electronics,7000
+PROD0014,Webcam,Electronics,3500
+PROD0015,Router,Electronics,2800
+PROD0016,Office Chair,Furniture,9500
+PROD0017,Desk,Furniture,12000
+PROD0018,Bookshelf,Furniture,6500
+PROD0019,Table Lamp,Home,1800
+PROD0020,Backpack,Bags,2200
+PROD0021,Running Shoes,Footwear,4200
+PROD0022,Casual Shoes,Footwear,3000
+PROD0023,T-Shirt,Clothing,900
+PROD0024,Jeans,Clothing,1800
+PROD0025,Jacket,Clothing,3200
+PROD0026,Formal Shirt,Clothing,1600
+PROD0027,Saree,Clothing,2800
+PROD0028,Kettle,Home,1800
+PROD0029,Air Fryer,Home,6500
+PROD0030,Mixer Grinder,Home,4200
+PROD0031,Coffee Maker,Home,5500
+PROD0032,Water Bottle,Home,700
+PROD0033,Backpack Travel,Bags,2800
+PROD0034,Handbag,Bags,3500
+PROD0035,Wallet,Accessories,1200
+PROD0036,Sunglasses,Accessories,1800
+PROD0037,Perfume,Beauty,2400
+PROD0038,Face Wash,Beauty,500
+PROD0039,Shampoo,Beauty,650
+PROD0040,Hair Dryer,Beauty,2200
+PROD0041,Cricket Bat,Sports,4500
+PROD0042,Football,Sports,1200
+PROD0043,Yoga Mat,Sports,900
+PROD0044,Dumbbells,Sports,2500
+PROD0045,Badminton Racket,Sports,1800
+PROD0046,Cookware Set,Home,4200
+PROD0047,Bedsheet,Home,1600
+PROD0048,Curtains,Home,2200
+PROD0049,Grocery Pack,Grocery,1400
+PROD0050,Protein Oats,Grocery,600
+PROD0051,Green Tea,Grocery,450
